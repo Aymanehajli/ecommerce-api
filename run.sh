@@ -1,6 +1,5 @@
-#!/bin/bash
 
-# Démarrer MongoDB avec Docker (si tu utilises Docker)
+# Démarrer MongoDB avec Docker 
 echo "Starting MongoDB..."
 docker-compose up -d db
 

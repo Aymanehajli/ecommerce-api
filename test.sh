@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 # URL de base de l'API
 API_URL="http://localhost:5002"
