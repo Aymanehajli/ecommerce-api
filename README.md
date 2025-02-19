@@ -24,7 +24,7 @@ Cette API RESTful permet de gérer un système de e-commerce avec des fonctionna
 ### 📌 Cloner le projet
 
 ```bash
-git clone https://github.com/ton-repo/ecommerce-api.git
+git clone https://github.com/Aymanehajli/ecommerce-api.git
 cd ecommerce-api
 ```
 
@@ -34,7 +34,7 @@ Créer un fichier `.env` à la racine du projet avec les variables suivantes :
 
 ```
 PORT=5000
-MONGO_URI=mongodb://mongodb:27017/ecommerce
+MONGO_URI=mongodb://database:27017/ecommerce
 ```
 
 ### 🏗️ Construire et exécuter avec Docker
